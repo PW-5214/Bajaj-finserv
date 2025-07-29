@@ -1,0 +1,26 @@
+{
+  "query": "What is the termination clause?",
+  "matched_clause": {
+    "text": "3.1 Either party may terminate this Agreement with 30 days written notice to the other party. 3.2 Client may terminate immediately if Provider breaches any material term of this Agreement. 3.3 Upon termination, Provider shall deliver all work product and materials to Client.",
+    "location": "Page 1, Clause 3",
+    "confidence": 0.91,
+    "scoring_factors": {
+      "intent_match": 0.95,
+      "keyword_density": 0.88,
+      "clause_type_match": 1.0,
+      "text_relevance": 0.92
+    },
+    "segment_id": 2
+  },
+  "decision_rationale": "Clause 3 defines policy termination conditions clearly, matching the user's query about termination clauses. The clause specifies notice periods (30 days), immediate termination conditions (material breach), and post-termination obligations (delivery of work product). This directly addresses the user's question about termination procedures.",
+  "metadata": {
+    "source_document": "https://example.com/contract.pdf",
+    "processed_at": "2025-01-28T12:00:00Z",
+    "token_usage": {
+      "prompt_tokens": 150,
+      "completion_tokens": 75,
+      "total_tokens": 225
+    },
+    "processing_time_ms": 1250
+  }
+} 

@@ -1,0 +1,109 @@
+SERVICE AGREEMENT
+
+This Service Agreement (the "Agreement") is entered into as of January 1, 2025, by and between:
+
+COMPANY A, a corporation organized under the laws of the State of California ("Client")
+and
+SERVICE PROVIDER B, a corporation organized under the laws of the State of New York ("Provider")
+
+1. SERVICES
+
+1.1 Provider shall provide consulting services to Client as described in Exhibit A attached hereto.
+
+1.2 Provider shall use commercially reasonable efforts to perform the Services in a professional and workmanlike manner.
+
+2. PAYMENT TERMS
+
+2.1 Client shall pay Provider a monthly fee of $10,000 for the Services.
+
+2.2 Payment shall be due within 30 days of receipt of invoice.
+
+2.3 Late payments shall bear interest at the rate of 1.5% per month.
+
+3. TERMINATION
+
+3.1 Either party may terminate this Agreement with 30 days written notice to the other party.
+
+3.2 Client may terminate immediately if Provider breaches any material term of this Agreement.
+
+3.3 Upon termination, Provider shall deliver all work product and materials to Client.
+
+4. CONFIDENTIALITY
+
+4.1 Each party shall maintain the confidentiality of the other party's confidential information.
+
+4.2 Confidential information includes but is not limited to business plans, customer lists, and technical specifications.
+
+4.3 The confidentiality obligations shall survive termination of this Agreement for a period of 5 years.
+
+5. INTELLECTUAL PROPERTY
+
+5.1 All intellectual property created by Provider in connection with the Services shall be owned by Client.
+
+5.2 Provider retains ownership of any pre-existing intellectual property used in providing the Services.
+
+5.3 Provider grants Client a non-exclusive license to use Provider's pre-existing intellectual property.
+
+6. LIABILITY LIMITS
+
+6.1 Provider's total liability under this Agreement shall not exceed the amount paid by Client in the 12 months preceding the claim.
+
+6.2 Neither party shall be liable for indirect, incidental, or consequential damages.
+
+6.3 The liability limits shall not apply to breaches of confidentiality or intellectual property obligations.
+
+7. NON-COMPETE
+
+7.1 During the term of this Agreement and for 2 years thereafter, Provider shall not provide similar services to Client's direct competitors.
+
+7.2 The non-compete restriction applies to companies in the same industry as Client.
+
+7.3 This restriction shall not apply if Client consents in writing.
+
+8. DISPUTE RESOLUTION
+
+8.1 Any disputes arising under this Agreement shall be resolved through binding arbitration.
+
+8.2 Arbitration shall be conducted in accordance with the rules of the American Arbitration Association.
+
+8.3 The arbitration shall take place in San Francisco, California.
+
+9. FORCE MAJEURE
+
+9.1 Neither party shall be liable for delays or failures due to circumstances beyond their reasonable control.
+
+9.2 Force majeure events include but are not limited to natural disasters, government actions, and labor strikes.
+
+9.3 The affected party shall notify the other party within 5 days of the force majeure event.
+
+10. GOVERNING LAW
+
+10.1 This Agreement shall be governed by the laws of the State of California.
+
+10.2 Any legal action shall be brought in the courts of San Francisco County, California.
+
+10.3 The parties consent to the jurisdiction of such courts.
+
+11. AMENDMENT
+
+11.1 This Agreement may only be amended by a written agreement signed by both parties.
+
+11.2 No oral modifications shall be binding on either party.
+
+12. ENTIRE AGREEMENT
+
+12.1 This Agreement constitutes the entire agreement between the parties.
+
+12.2 This Agreement supersedes all prior agreements and understandings.
+
+12.3 If any provision is found to be unenforceable, the remaining provisions shall remain in effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+COMPANY A
+By: ________________________
+Title: Chief Executive Officer
+
+SERVICE PROVIDER B
+By: ________________________
+Title: President 
